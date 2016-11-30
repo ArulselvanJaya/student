@@ -6,3 +6,5 @@
     Username: arul
     Passwrod: arul
 6. Student details Refer "notes/student.xls"
+
+Note: Sample image "notes/screenshot"
